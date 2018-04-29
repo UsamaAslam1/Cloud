@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CloudApp</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <string-array name="type">
+        <item>One Bed</item>
+        <item>Two Beds</item>
+        <item>Four Beds</item>
+        <item>Suite</item>
+    </string-array>
+
+</resources>
